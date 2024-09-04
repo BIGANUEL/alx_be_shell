@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod u+x hello 2>/dev/null
+chmod u+x hello
+
